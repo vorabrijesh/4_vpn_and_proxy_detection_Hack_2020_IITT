@@ -2,8 +2,11 @@
 
 requirements:
 pip install ipwhois
+
 pip install shodan
+
 pip install setuptools
+
 pip install python-nmap
 
 run:
